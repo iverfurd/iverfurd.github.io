@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iverfurd.github.io/sitemap.html.gz
+Sitemap: https://iverfurd.github.io/app/sitemap.html.gz
+Sitemap: https://iverfurd.github.io/assets/sitemap.html.gz
+Sitemap: https://iverfurd.github.io/css/sitemap.html.gz
+Sitemap: https://iverfurd.github.io/includes/sitemap.html.gz
+Sitemap: https://iverfurd.github.io/item/sitemap.html.gz
+Sitemap: https://iverfurd.github.io/src/sitemap.html.gz
